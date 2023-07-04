@@ -48,6 +48,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40">
  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="scikit-learn" alt="scikit-learn" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" title="OpenCV" alt="OpenCV" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="40" height="40">
+ 
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> Github Stats
