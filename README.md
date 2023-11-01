@@ -1,11 +1,12 @@
 # <p align="center">  Hi there, I'm Siddhi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" /> </p>
 <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /> -->
 
-### <p align="center"> A Tech Enthusiast
+<p align="center"><b>A Tech Enthusiast</b></p>
+
 
 <!-- ![](https://komarev.com/ghpvc/?username=siddhipatade&color=green) -->
 
- </p>
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> I’m currently working on
 
