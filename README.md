@@ -1,6 +1,6 @@
-# <p align="center"> <b width="50" height="50" > Hi there, I'm Siddhi </b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />  </p>
+# <p align="center"> <b width="60" height="60" > Hi there, I'm Siddhi </b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />  </p>
 
-<p align="center"><b>A Tech Enthusiast</b></p>
+<p align="center"><b width="40" height="40">A Tech Enthusiast</b></p>
 
 
 <!-- ![](https://komarev.com/ghpvc/?username=siddhipatade&color=green) -->
