@@ -56,9 +56,11 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> Github Stats
 
+[![Siddhi’s github stats](https://github-readme-stats.vercel.app/api?username=Siddhipatade&layout=compact&theme=vision-friendly-dark)](https://github.com/Siddhipatade)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhipatade&layout=compact&theme=vision-friendly-dark)](https://github.com/Siddhipatade/github-readme-stats)
 
-<!-- ![![GitHub Streak](https://streak-stats.demolab.com/?user=siddhipatade&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=vision-friendly-dark)](https://git.io/streak-stats)-->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=siddhipatade&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="25" height="25" />  How to reach me :
 
