@@ -66,7 +66,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Siddhi_Patade-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/siddhi-patade-1187a91b6/)
 [![Instagram Badge](https://img.shields.io/badge/-_siddhi_patade-%23E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_siddhi_patade/)
 [![Email Badge](https://img.shields.io/badge/-Email-%23D14836?style=flat&logo=Gmail&logoColor=white)](mailto:patadesiddhi20@example.com)
-[![Pinterest Badge](https://img.shields.io/badge/-@patadesiddhi851-BD081C?style=flat&logo=Pinterest&logoColor=white)](https://in.pinterest.com/patadesiddhi851/)
+<!--[![Pinterest Badge](https://img.shields.io/badge/-@patadesiddhi851-BD081C?style=flat&logo=Pinterest&logoColor=white)](https://in.pinterest.com/patadesiddhi851/)
 
 
 
