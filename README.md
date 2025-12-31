@@ -9,11 +9,6 @@
 </p>
 
 ---
-
-<!-- ![](https://komarev.com/ghpvc/?username=siddhipatade&color=green) -->
-
-
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> I’m currently working on
 
 - Projects
@@ -26,23 +21,34 @@
 
 - Machine Learning
 - SQL
+---
+<!-- ![](https://komarev.com/ghpvc/?username=siddhipatade&color=green) -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" style="vertical-align: middle;">
+  GitHub Analytics
+</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=Siddhipatade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Siddhipatade&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+<img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Siddhipatade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siddhipatade&theme=tokyonight" alt="Contribution Graph" />
+</div>
 
 ---
-## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,cs,git,nodejs,react,nextjs,mysql,postgres,html,css,tailwind,bash,linux,figma,docker,aws,gcp,pytorch,tensorflow,sklearn,opencv,md&perline=8" alt="Tech Stack"/>
-</p>
 
----
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> Github Stats
 
-[![Siddhi’s github stats](https://github-readme-stats.vercel.app/api?username=Siddhipatade&layout=compact&theme=vision-friendly-dark)](https://github.com/Siddhipatade)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhipatade&layout=compact&theme=vision-friendly-dark)](https://github.com/Siddhipatade/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=siddhipatade&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="25" height="25" />  How to reach me :
 
