@@ -91,7 +91,7 @@ fun_fact:        "I turn spreadsheets nobody opens into dashboards people check 
 ### 📫 Let's Connect
 
 Always happy to talk data, dashboards, or new opportunities.
-Reach out via <a href="mailto:patadesiddhi20@gmail.com">email</a> or <a href="">LinkedIn</a>.
+Reach out via <a href="mailto:patadesiddhi20@gmail.com">email</a> or <a href="https://www.linkedin.com/in/siddhi-patade-1187a91b6/">LinkedIn</a>.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A103C,50:6D28D9,100:F472B6&height=100&section=footer"/>
 
